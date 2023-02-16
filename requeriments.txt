@@ -1,0 +1,4 @@
+## USUARIO BD y PASSWORD
+database: portafolio
+user: admin
+pass: portaHGFD*25.@
